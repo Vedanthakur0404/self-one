@@ -15,6 +15,15 @@ SUNDAY = "Sunday"
 u = 89
 MONDAY = "Monday"
 
+TUESDAY = "Tuesday"
+
+
+s = 89
+TUESDAY = "Tuesday"
+
+WEDNESSDAY= "Wednessday"
+
+
 print("This is added but not commited")
 
 print("Hello")
