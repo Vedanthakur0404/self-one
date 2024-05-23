@@ -7,6 +7,8 @@ for i in range(90):
 for i in range(90):
     print(i)
 
+print(":)")
+
 p = 89
 SUNDAY = "Sunday"
 
@@ -18,3 +20,5 @@ print("This is added but not commited")
 print("Hello")
 x = 0
 print(90/x)
+
+print("This is not Commmmmmmmitedddd")
