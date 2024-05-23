@@ -26,3 +26,7 @@ print("This is not Commmmmmmmitedddd")
 
 def myFun(a, b):
     return a + b
+
+def yourFun(a, b):
+    return a + b
+
