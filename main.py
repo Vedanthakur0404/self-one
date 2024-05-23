@@ -44,5 +44,5 @@ def yourFun(a, b):
     return a + b
 
 def subFun(a, b):
-    return a * b
+    return a - b
 
