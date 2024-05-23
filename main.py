@@ -39,3 +39,7 @@ def myFun(a, b):
 
 def thirdFun(a, b):
     return a + b
+
+def yourFun(a, b):
+    return a + b
+
