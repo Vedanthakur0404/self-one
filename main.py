@@ -39,3 +39,6 @@ def myFun(a, b):
 def yourFun(a, b):
     return a + b
 
+def subFun(a, b):
+    return a - b
+
