@@ -10,7 +10,10 @@ for i in range(90):
 p = 89
 SUNDAY = "Sunday"
 
+u = 89
+MONDAY = "Monday"
 
+print("This is added but not commited")
 
 print("Hello")
 x = 0
