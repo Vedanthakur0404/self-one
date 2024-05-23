@@ -31,3 +31,7 @@ x = 0
 print(90/x)
 
 print("This is not Commmmmmmmitedddd")
+
+
+def myFun(a, b):
+    return a + b
