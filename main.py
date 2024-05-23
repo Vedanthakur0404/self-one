@@ -23,3 +23,7 @@ print("This is added but not commited")
 print("Hello")
 x = 0
 print(90/x)
+
+
+def myFun(a, b):
+    return a + b
